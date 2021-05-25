@@ -1,0 +1,1 @@
+execute:frappe.db.sql("update `tabPage` set module = 'Metactical' where name = 'packing-slip'")
