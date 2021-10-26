@@ -26,9 +26,9 @@ app_include_css = "/assets/css/sales_report_full.css"
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-doctype_js = {
-    "Packing Slip" : "public/js/packing_slip.js"
-    }
+#doctype_js = {
+#    "Packing Slip" : "public/js/packing_slip.js"
+#    }
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
